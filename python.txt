@@ -1,0 +1,63 @@
+TOOLS TO EXECUTE PYTHON
+ Eclipse-PyDev
+ PyCharm
+ Eric
+ NetBeans
+ Sublime Text
+ Visual Studio Code 
+
+TOOL REQUIRED TO EXECUTE PYTHON IN DIFFERENT DOMAINS
+1.Web and Internet Development
+Package Index has yet more libraries:
+Requests, a powerful HTTP client library.
+BeautifulSoup, an HTML parser that can handle all sorts of oddball HTML.
+Feedparser for parsing RSS/Atom feeds.
+Paramiko, implementing the SSH2 protocol.
+Twisted Python, a framework for asynchronous network programming.
+
+2.Scientific and Numeric
+SciPy is a collection of packages for mathematics, science, and engineering.
+Pandas is a data analysis and modeling library.
+IPython is a powerful interactive shell that features easy editing and recording of 
+a work session,and supports visualizations and parallel computing.
+The Software Carpentry Course teaches basic skills for scientific computing, running 
+bootcamps and providing open-access teaching materials.
+
+
+4.Desktop GUIs
+wxWidgets
+Kivy, for writing multitouch applications.
+Qt via pyqt or pyside
+
+5.Software Development
+SCons for build control.
+Buildbot and Apache Gump for automated continuous compilation and testing.
+Roundup or Trac for bug tracking and project management.
+
+6.Business Applications
+Odoo is an all-in-one management software that offers a range of business applications that
+ form a complete suite of enterprise management applications.
+Tryton is a three-tier high-level general purpose application platform.
+
+
+DIFFERENCE BETWEEN DIFFERENT VERSIONS OF PYTHON
+
+
+PYTHON 2.X                            PYTHON 3.X
+1.To get decimal results it is       1.No need to use floating value
+preferred to use floating values       Ex. 5/2=2.5
+ex. 5.0/2=2.5
+    5/0=2
+
+2.print function syntax              2.print function syntax
+print(' ')                                print(' ')
+print' '
+
+3.it supports both unicode           3.It only supports unicode
+and ASCHII
+
+4.exception handling:no              4.exception handling:
+'as' keyword in syntax                 'as' keyword in syntax
+
+
+
